@@ -1,1 +1,3 @@
 # CCNA_Labs
+
+In this repository all the I have uploaded all the labs configured for CCNA Preparation.....
